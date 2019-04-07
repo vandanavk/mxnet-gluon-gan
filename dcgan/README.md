@@ -1,4 +1,4 @@
-DCGAN using Apache MXNet
+# DCGAN using Apache MXNet
 
 2 options to try out this notebook:
 1. [Run this notebook on Colab](https://colab.research.google.com/github/vandanavk/mxnet-gluon-gan/blob/dcgan/dcgan/dcgan.ipynb)
