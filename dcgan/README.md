@@ -4,10 +4,14 @@ It is recommended to execute this example on GPU.
 
 2 options to try out this notebook:
 1. [Run this notebook on Colab](https://colab.research.google.com/github/vandanavk/mxnet-gluon-gan/blob/dcgan/dcgan/dcgan.ipynb)
+    
     Pre-requisites to execute on Colab: Select Python, GPU as the runtime, CUDA 9.2 and MXNet 1.4.0 (mxnet-cu92) installed.
+    
     Note: The step to install these pre-requisites is already included in the notebook.
 2. [Try this notebook in Amazon Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html)
-    Pre-requisites to execute on SageMaker: Clone this GitHub repo in SageMaker, select MXNet_p36 as the kernel.
+    
+    Pre-requisites to execute on SageMaker: Clone this GitHub repo in SageMaker (switch to dcgan branch), select MXNet_p36 as the kernel.
+    
     Note: Enabling this kernel, makes the correct version of MXNet & CUDA automatically available for use in SageMaker. 
 
 
