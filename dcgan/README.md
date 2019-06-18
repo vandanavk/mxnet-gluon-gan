@@ -3,7 +3,7 @@
 It is recommended to execute this example on GPU.
 
 2 options to try out this notebook:
-1. [Run this notebook on Colab](https://colab.research.google.com/github/vandanavk/mxnet-gluon-gan/blob/dcgan/dcgan/dcgan.ipynb)
+1. [Run this notebook on Colab](https://colab.research.google.com/github/piyushghai/mxnet-gluon-gan/blob/dcgan/dcgan/dcgan_faces.ipynb)
     
     Pre-requisites to execute on Colab: Select Python, GPU as the runtime, CUDA 9.2 and MXNet 1.4.0 (mxnet-cu92) installed.
     
